@@ -17,6 +17,8 @@ Following scenarios are considered while designing the solution.
 6. Crawling of same URls are skipped, if found while crawling.
 7. HtmlAgility Package is made use to parse the html body as this package is more efficient than Regex way of crawling.
 8. Made use of Cancellation Tokens to stop the execution of the tasks.
+9. Dependecy Injection concept has been used.
+10.Interface programming concept is used.
 
 
 
