@@ -1,0 +1,115 @@
+c:\users\darshanr\documents\visual studio 2012\Projects\webCrawler\webCrawler\bin\Debug\webCrawler.exe.config
+c:\Users\darshanr\Documents\Visual Studio 2012\Projects\webCrawler\webCrawler\bin\Debug\webCrawler.exe
+c:\Users\darshanr\Documents\Visual Studio 2012\Projects\webCrawler\webCrawler\bin\Debug\webCrawler.pdb
+c:\Users\darshanr\Documents\Visual Studio 2012\Projects\webCrawler\webCrawler\obj\Debug\webCrawler.csprojResolveAssemblyReference.cache
+c:\Users\darshanr\Documents\Visual Studio 2012\Projects\webCrawler\webCrawler\obj\Debug\webCrawler.exe
+c:\Users\darshanr\Documents\Visual Studio 2012\Projects\webCrawler\webCrawler\obj\Debug\webCrawler.pdb
+c:\Users\darshanr\Documents\Visual Studio 2012\Projects\webCrawler\webCrawler\bin\Debug\HtmlAgilityPack.dll
+c:\Users\darshanr\Documents\Visual Studio 2012\Projects\webCrawler\webCrawler\bin\Debug\HtmlAgilityPack.pdb
+c:\Users\darshanr\Documents\Visual Studio 2012\Projects\webCrawler\webCrawler\bin\Debug\HtmlAgilityPack.xml
+J:\webCrawler\webCrawler\bin\Debug\webCrawler.exe.config
+J:\webCrawler\webCrawler\obj\Debug\webCrawler.exe
+J:\webCrawler\webCrawler\obj\Debug\webCrawler.pdb
+J:\webCrawler\webCrawler\bin\Debug\webCrawler.exe
+J:\webCrawler\webCrawler\bin\Debug\webCrawler.pdb
+J:\webCrawler\webCrawler\bin\Debug\HtmlAgilityPack.dll
+J:\webCrawler\webCrawler\bin\Debug\HtmlAgilityPack.pdb
+J:\webCrawler\webCrawler\bin\Debug\HtmlAgilityPack.xml
+J:\webCrawler\webCrawler\obj\Debug\webCrawler.csprojResolveAssemblyReference.cache
+F:\Office Works\webCrawler\webCrawler\bin\Debug\webCrawler.exe.config
+F:\Office Works\webCrawler\webCrawler\obj\Debug\webCrawler.exe
+F:\Office Works\webCrawler\webCrawler\obj\Debug\webCrawler.pdb
+F:\Office Works\webCrawler\webCrawler\obj\Debug\webCrawler.csprojResolveAssemblyReference.cache
+F:\Office Works\webCrawler\webCrawler\bin\Debug\webCrawler.exe
+F:\Office Works\webCrawler\webCrawler\bin\Debug\webCrawler.pdb
+F:\Office Works\webCrawler\webCrawler\bin\Debug\HtmlAgilityPack.dll
+F:\Office Works\webCrawler\webCrawler\bin\Debug\HtmlAgilityPack.pdb
+F:\Office Works\webCrawler\webCrawler\bin\Debug\HtmlAgilityPack.xml
+F:\Office Works\webCrawler_new\webCrawler\bin\Debug\webCrawler.exe.config
+F:\Office Works\webCrawler_new\webCrawler\obj\Debug\webCrawler.exe
+F:\Office Works\webCrawler_new\webCrawler\obj\Debug\webCrawler.pdb
+F:\Office Works\webCrawler_new\webCrawler\obj\Debug\webCrawler.csprojResolveAssemblyReference.cache
+F:\Office Works\webCrawler_new\webCrawler\bin\Debug\webCrawler.exe
+F:\Office Works\webCrawler_new\webCrawler\bin\Debug\webCrawler.pdb
+F:\Office Works\webCrawler_new\webCrawler\bin\Debug\HtmlAgilityPack.dll
+F:\Office Works\webCrawler_new\webCrawler\bin\Debug\HtmlAgilityPack.pdb
+F:\Office Works\webCrawler_new\webCrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\darshanr\Documents\Designer\webCrawler_new\webCrawler\bin\Debug\webCrawler.exe.config
+C:\Users\darshanr\Documents\Designer\webCrawler_new\webCrawler\bin\Debug\webCrawler.exe
+C:\Users\darshanr\Documents\Designer\webCrawler_new\webCrawler\bin\Debug\webCrawler.pdb
+C:\Users\darshanr\Documents\Designer\webCrawler_new\webCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\darshanr\Documents\Designer\webCrawler_new\webCrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\darshanr\Documents\Designer\webCrawler_new\webCrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\darshanr\Documents\Designer\webCrawler_new\webCrawler\obj\Debug\webCrawler.exe
+C:\Users\darshanr\Documents\Designer\webCrawler_new\webCrawler\obj\Debug\webCrawler.pdb
+C:\Users\darshanr\Documents\Designer\webCrawler_new\webCrawler\obj\Debug\webCrawler.csprojResolveAssemblyReference.cache
+J:\working code\webCrawler_new\webCrawler\bin\Debug\webCrawler.exe.config
+J:\working code\webCrawler_new\webCrawler\obj\Debug\webCrawler.exe
+J:\working code\webCrawler_new\webCrawler\obj\Debug\webCrawler.pdb
+J:\async to be implemented\webCrawler_new_v3\webCrawler\bin\Debug\webCrawler.exe.config
+J:\async to be implemented\webCrawler_new_v3\webCrawler\obj\Debug\webCrawler.exe
+J:\async to be implemented\webCrawler_new_v3\webCrawler\obj\Debug\webCrawler.pdb
+J:\async to be implemented\webCrawler_new_v3\webCrawler\obj\Debug\webCrawler.csprojResolveAssemblyReference.cache
+F:\async to be implemented\webCrawler_new_v3\webCrawler\bin\Debug\webCrawler.exe.config
+F:\async to be implemented\webCrawler_new_v3\webCrawler\obj\Debug\webCrawler.exe
+F:\async to be implemented\webCrawler_new_v3\webCrawler\bin\Debug\webCrawler.exe
+F:\async to be implemented\webCrawler_new_v3\webCrawler\bin\Debug\webCrawler.pdb
+F:\async to be implemented\webCrawler_new_v3\webCrawler\bin\Debug\HtmlAgilityPack.dll
+F:\async to be implemented\webCrawler_new_v3\webCrawler\bin\Debug\HtmlAgilityPack.pdb
+F:\async to be implemented\webCrawler_new_v3\webCrawler\bin\Debug\HtmlAgilityPack.xml
+F:\async to be implemented\webCrawler_new_v3\webCrawler\obj\Debug\webCrawler.csprojResolveAssemblyReference.cache
+F:\async to be implemented\webCrawler_new_v3\webCrawler\obj\Debug\webCrawler.pdb
+C:\Users\darshanr\Documents\Designer\webCrawler_new_v3\webCrawler\bin\Debug\webCrawler.exe.config
+C:\Users\darshanr\Documents\Designer\webCrawler_new_v3\webCrawler\obj\Debug\webCrawler.exe
+C:\Users\darshanr\Documents\Designer\webCrawler_new_v3\webCrawler\obj\Debug\webCrawler.pdb
+C:\Users\darshanr\Documents\Designer\webCrawler_new_v3\webCrawler\bin\Debug\webCrawler.exe
+C:\Users\darshanr\Documents\Designer\webCrawler_new_v3\webCrawler\bin\Debug\webCrawler.pdb
+C:\Users\darshanr\Documents\Designer\webCrawler_new_v3\webCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\darshanr\Documents\Designer\webCrawler_new_v3\webCrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\darshanr\Documents\Designer\webCrawler_new_v3\webCrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\darshanr\Documents\Designer\webCrawler_new_v3\webCrawler\obj\Debug\webCrawler.csprojResolveAssemblyReference.cache
+E:\webCrawler_new_v3\webCrawler\bin\Debug\webCrawler.exe.config
+E:\webCrawler_new_v3\webCrawler\bin\Debug\webCrawler.exe
+E:\webCrawler_new_v3\webCrawler\bin\Debug\webCrawler.pdb
+E:\webCrawler_new_v3\webCrawler\bin\Debug\HtmlAgilityPack.dll
+E:\webCrawler_new_v3\webCrawler\bin\Debug\HtmlAgilityPack.pdb
+E:\webCrawler_new_v3\webCrawler\bin\Debug\HtmlAgilityPack.xml
+E:\webCrawler_new_v3\webCrawler\obj\Debug\webCrawler.csprojResolveAssemblyReference.cache
+E:\webCrawler_new_v3\webCrawler\obj\Debug\webCrawler.exe
+E:\webCrawler_new_v3\webCrawler\obj\Debug\webCrawler.pdb
+E:\WebCrawlers\webCrawler_new_v3\webCrawler\bin\Debug\webCrawler.exe.config
+E:\WebCrawlers\webCrawler_new_v3\webCrawler\obj\Debug\webCrawler.exe
+E:\WebCrawlers\webCrawler_new_v3\webCrawler\obj\Debug\webCrawler.pdb
+E:\WebCrawlers\webCrawler_new_v3_new\webCrawler\bin\Debug\webCrawler.exe.config
+E:\WebCrawlers\webCrawler_new_v3_new\webCrawler\bin\Debug\webCrawler.exe
+E:\WebCrawlers\webCrawler_new_v3_new\webCrawler\bin\Debug\webCrawler.pdb
+E:\WebCrawlers\webCrawler_new_v3_new\webCrawler\bin\Debug\HtmlAgilityPack.dll
+E:\WebCrawlers\webCrawler_new_v3_new\webCrawler\bin\Debug\HtmlAgilityPack.pdb
+E:\WebCrawlers\webCrawler_new_v3_new\webCrawler\bin\Debug\HtmlAgilityPack.xml
+E:\WebCrawlers\webCrawler_new_v3_new\webCrawler\obj\Debug\webCrawler.exe
+E:\WebCrawlers\webCrawler_new_v3_new\webCrawler\obj\Debug\webCrawler.pdb
+E:\WebCrawlers\webCrawler_new_v3_new_done\webCrawler\bin\Debug\webCrawler.exe.config
+E:\WebCrawlers\webCrawler_new_v3_new_done\webCrawler\bin\Debug\webCrawler.exe
+E:\WebCrawlers\webCrawler_new_v3_new_done\webCrawler\bin\Debug\webCrawler.pdb
+E:\WebCrawlers\webCrawler_new_v3_new_done\webCrawler\bin\Debug\HtmlAgilityPack.dll
+E:\WebCrawlers\webCrawler_new_v3_new_done\webCrawler\bin\Debug\HtmlAgilityPack.pdb
+E:\WebCrawlers\webCrawler_new_v3_new_done\webCrawler\bin\Debug\HtmlAgilityPack.xml
+E:\WebCrawlers\webCrawler_new_v3_new_done\webCrawler\obj\Debug\webCrawler.exe
+E:\WebCrawlers\webCrawler_new_v3_new_done\webCrawler\obj\Debug\webCrawler.pdb
+C:\Users\Darshan\Documents\Visual Studio 2012\Projects\webCrawler_new_v3_new_done\webCrawler\bin\Debug\webCrawler.exe.config
+C:\Users\Darshan\Documents\Visual Studio 2012\Projects\webCrawler_new_v3_new_done\webCrawler\obj\Debug\webCrawler.exe
+C:\Users\Darshan\Documents\Visual Studio 2012\Projects\webCrawler_new_v3_new_done\webCrawler\obj\Debug\webCrawler.pdb
+C:\Users\Darshan\Documents\Visual Studio 2012\Projects\webCrawler_new_v3_new_done\webCrawler\bin\Debug\webCrawler.exe
+C:\Users\Darshan\Documents\Visual Studio 2012\Projects\webCrawler_new_v3_new_done\webCrawler\bin\Debug\webCrawler.pdb
+C:\Users\Darshan\Documents\Visual Studio 2012\Projects\webCrawler_new_v3_new_done\webCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Darshan\Documents\Visual Studio 2012\Projects\webCrawler_new_v3_new_done\webCrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Darshan\Documents\Visual Studio 2012\Projects\webCrawler_new_v3_new_done\webCrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Darshan\Documents\Visual Studio 2012\Projects\webCrawler\webCrawler\bin\Debug\webCrawler.exe.config
+C:\Users\Darshan\Documents\Visual Studio 2012\Projects\webCrawler\webCrawler\obj\Debug\webCrawler.exe
+C:\Users\Darshan\Documents\Visual Studio 2012\Projects\webCrawler\webCrawler\obj\Debug\webCrawler.pdb
+C:\Users\Darshan\Documents\Visual Studio 2012\Projects\webCrawler\webCrawler\bin\Debug\webCrawler.exe
+C:\Users\Darshan\Documents\Visual Studio 2012\Projects\webCrawler\webCrawler\bin\Debug\webCrawler.pdb
+C:\Users\Darshan\Documents\Visual Studio 2012\Projects\webCrawler\webCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Darshan\Documents\Visual Studio 2012\Projects\webCrawler\webCrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Darshan\Documents\Visual Studio 2012\Projects\webCrawler\webCrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Darshan\Documents\Visual Studio 2012\Projects\webCrawler\webCrawler\obj\Debug\webCrawler.csprojResolveAssemblyReference.cache
